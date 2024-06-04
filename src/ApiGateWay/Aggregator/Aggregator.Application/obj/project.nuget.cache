@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "xLC0QVtSHaqFM8EU9uon05sLFirVPVCm439ynBM1sL7ySNz5Ay2e6xphdOne/G7j5igGUuG3LsEn7pZaPo4CGA==",
+  "success": true,
+  "projectFilePath": "D:\\C\\Projects\\TryItProj – копія\\TryIt\\src\\ApiGateWay\\Aggregator\\Aggregator.Application\\Aggregator.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rostd\\.nuget\\packages\\google.protobuf\\3.26.0\\google.protobuf.3.26.0.nupkg.sha512",
+    "C:\\Users\\rostd\\.nuget\\packages\\grpc.core.api\\2.61.0\\grpc.core.api.2.61.0.nupkg.sha512",
+    "C:\\Users\\rostd\\.nuget\\packages\\grpc.net.client\\2.61.0\\grpc.net.client.2.61.0.nupkg.sha512",
+    "C:\\Users\\rostd\\.nuget\\packages\\grpc.net.common\\2.61.0\\grpc.net.common.2.61.0.nupkg.sha512",
+    "C:\\Users\\rostd\\.nuget\\packages\\grpc.tools\\2.62.0\\grpc.tools.2.62.0.nupkg.sha512",
+    "C:\\Users\\rostd\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,8 @@
+{
+  "MessageBus, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\C\\Projects\\TryItProj – копія\\TryIt\\src\\MessageBus",
+  "Posts.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\C\\Projects\\TryItProj – копія\\TryIt\\src\\Posts\\Posts.Application",
+  "Posts.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\C\\Projects\\TryItProj – копія\\TryIt\\src\\Posts\\Posts.Domain",
+  "Posts.Infrastructure.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\C\\Projects\\TryItProj – копія\\TryIt\\src\\Posts\\Posts.Infrastructure.Data",
+  "Posts.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\C\\Projects\\TryItProj – копія\\TryIt\\src\\Posts\\Posts.Infrastructure",
+  "Posts.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\C\\Projects\\TryItProj – копія\\TryIt\\src\\Posts\\Posts.WebApi"
+}

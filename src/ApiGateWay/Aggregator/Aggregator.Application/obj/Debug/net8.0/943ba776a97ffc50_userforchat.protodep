@@ -1,0 +1,2 @@
+obj\Debug\net8.0\Contracts\protos\UserProtos/Userforchat.cs \
+obj\Debug\net8.0\Contracts\protos\UserProtos/UserforchatGrpc.cs: Contracts/protos/UserProtos/userforchat.proto

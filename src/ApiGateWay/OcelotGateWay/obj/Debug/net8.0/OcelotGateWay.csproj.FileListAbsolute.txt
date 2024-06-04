@@ -1,0 +1,92 @@
+D:\C\Projects\TryItProj\TryIt\src\ApiGateWay\OcelotGateWay\bin\Debug\net8.0\appsettings.Development.json
+D:\C\Projects\TryItProj\TryIt\src\ApiGateWay\OcelotGateWay\bin\Debug\net8.0\appsettings.json
+D:\C\Projects\TryItProj\TryIt\src\ApiGateWay\OcelotGateWay\bin\Debug\net8.0\ocelot.json
+D:\C\Projects\TryItProj\TryIt\src\ApiGateWay\OcelotGateWay\bin\Debug\net8.0\OcelotGateWay.exe
+D:\C\Projects\TryItProj\TryIt\src\ApiGateWay\OcelotGateWay\bin\Debug\net8.0\OcelotGateWay.deps.json
+D:\C\Projects\TryItProj\TryIt\src\ApiGateWay\OcelotGateWay\bin\Debug\net8.0\OcelotGateWay.runtimeconfig.json
+D:\C\Projects\TryItProj\TryIt\src\ApiGateWay\OcelotGateWay\bin\Debug\net8.0\OcelotGateWay.dll
+D:\C\Projects\TryItProj\TryIt\src\ApiGateWay\OcelotGateWay\bin\Debug\net8.0\OcelotGateWay.pdb
+D:\C\Projects\TryItProj\TryIt\src\ApiGateWay\OcelotGateWay\bin\Debug\net8.0\FluentValidation.dll
+D:\C\Projects\TryItProj\TryIt\src\ApiGateWay\OcelotGateWay\bin\Debug\net8.0\IPAddressRange.dll
+D:\C\Projects\TryItProj\TryIt\src\ApiGateWay\OcelotGateWay\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\C\Projects\TryItProj\TryIt\src\ApiGateWay\OcelotGateWay\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\C\Projects\TryItProj\TryIt\src\ApiGateWay\OcelotGateWay\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\C\Projects\TryItProj\TryIt\src\ApiGateWay\OcelotGateWay\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\C\Projects\TryItProj\TryIt\src\ApiGateWay\OcelotGateWay\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\C\Projects\TryItProj\TryIt\src\ApiGateWay\OcelotGateWay\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\C\Projects\TryItProj\TryIt\src\ApiGateWay\OcelotGateWay\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\C\Projects\TryItProj\TryIt\src\ApiGateWay\OcelotGateWay\bin\Debug\net8.0\Ocelot.dll
+D:\C\Projects\TryItProj\TryIt\src\ApiGateWay\OcelotGateWay\bin\Debug\net8.0\Ocelot.Provider.Polly.dll
+D:\C\Projects\TryItProj\TryIt\src\ApiGateWay\OcelotGateWay\bin\Debug\net8.0\Polly.dll
+D:\C\Projects\TryItProj\TryIt\src\ApiGateWay\OcelotGateWay\bin\Debug\net8.0\Polly.Core.dll
+D:\C\Projects\TryItProj\TryIt\src\ApiGateWay\OcelotGateWay\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\C\Projects\TryItProj\TryIt\src\ApiGateWay\OcelotGateWay\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\C\Projects\TryItProj\TryIt\src\ApiGateWay\OcelotGateWay\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\C\Projects\TryItProj\TryIt\src\ApiGateWay\OcelotGateWay\obj\Debug\net8.0\OcelotGateWay.csproj.AssemblyReference.cache
+D:\C\Projects\TryItProj\TryIt\src\ApiGateWay\OcelotGateWay\obj\Debug\net8.0\OcelotGateWay.GeneratedMSBuildEditorConfig.editorconfig
+D:\C\Projects\TryItProj\TryIt\src\ApiGateWay\OcelotGateWay\obj\Debug\net8.0\OcelotGateWay.AssemblyInfoInputs.cache
+D:\C\Projects\TryItProj\TryIt\src\ApiGateWay\OcelotGateWay\obj\Debug\net8.0\OcelotGateWay.AssemblyInfo.cs
+D:\C\Projects\TryItProj\TryIt\src\ApiGateWay\OcelotGateWay\obj\Debug\net8.0\OcelotGateWay.csproj.CoreCompileInputs.cache
+D:\C\Projects\TryItProj\TryIt\src\ApiGateWay\OcelotGateWay\obj\Debug\net8.0\OcelotGateWay.MvcApplicationPartsAssemblyInfo.cs
+D:\C\Projects\TryItProj\TryIt\src\ApiGateWay\OcelotGateWay\obj\Debug\net8.0\OcelotGateWay.MvcApplicationPartsAssemblyInfo.cache
+D:\C\Projects\TryItProj\TryIt\src\ApiGateWay\OcelotGateWay\obj\Debug\net8.0\OcelotGateWay.sourcelink.json
+D:\C\Projects\TryItProj\TryIt\src\ApiGateWay\OcelotGateWay\obj\Debug\net8.0\staticwebassets.build.json
+D:\C\Projects\TryItProj\TryIt\src\ApiGateWay\OcelotGateWay\obj\Debug\net8.0\staticwebassets.development.json
+D:\C\Projects\TryItProj\TryIt\src\ApiGateWay\OcelotGateWay\obj\Debug\net8.0\staticwebassets\msbuild.OcelotGateWay.Microsoft.AspNetCore.StaticWebAssets.props
+D:\C\Projects\TryItProj\TryIt\src\ApiGateWay\OcelotGateWay\obj\Debug\net8.0\staticwebassets\msbuild.build.OcelotGateWay.props
+D:\C\Projects\TryItProj\TryIt\src\ApiGateWay\OcelotGateWay\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.OcelotGateWay.props
+D:\C\Projects\TryItProj\TryIt\src\ApiGateWay\OcelotGateWay\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.OcelotGateWay.props
+D:\C\Projects\TryItProj\TryIt\src\ApiGateWay\OcelotGateWay\obj\Debug\net8.0\staticwebassets.pack.json
+D:\C\Projects\TryItProj\TryIt\src\ApiGateWay\OcelotGateWay\obj\Debug\net8.0\scopedcss\bundle\OcelotGateWay.styles.css
+D:\C\Projects\TryItProj\TryIt\src\ApiGateWay\OcelotGateWay\obj\Debug\net8.0\OcelotGa.6DA251DC.Up2Date
+D:\C\Projects\TryItProj\TryIt\src\ApiGateWay\OcelotGateWay\obj\Debug\net8.0\OcelotGateWay.dll
+D:\C\Projects\TryItProj\TryIt\src\ApiGateWay\OcelotGateWay\obj\Debug\net8.0\refint\OcelotGateWay.dll
+D:\C\Projects\TryItProj\TryIt\src\ApiGateWay\OcelotGateWay\obj\Debug\net8.0\OcelotGateWay.pdb
+D:\C\Projects\TryItProj\TryIt\src\ApiGateWay\OcelotGateWay\obj\Debug\net8.0\OcelotGateWay.genruntimeconfig.cache
+D:\C\Projects\TryItProj\TryIt\src\ApiGateWay\OcelotGateWay\obj\Debug\net8.0\ref\OcelotGateWay.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\ApiGateWay\OcelotGateWay\bin\Debug\net8.0\appsettings.Development.json
+D:\C\Projects\TryItProj – копія\TryIt\src\ApiGateWay\OcelotGateWay\bin\Debug\net8.0\appsettings.json
+D:\C\Projects\TryItProj – копія\TryIt\src\ApiGateWay\OcelotGateWay\bin\Debug\net8.0\ocelot.json
+D:\C\Projects\TryItProj – копія\TryIt\src\ApiGateWay\OcelotGateWay\bin\Debug\net8.0\OcelotGateWay.exe
+D:\C\Projects\TryItProj – копія\TryIt\src\ApiGateWay\OcelotGateWay\bin\Debug\net8.0\OcelotGateWay.deps.json
+D:\C\Projects\TryItProj – копія\TryIt\src\ApiGateWay\OcelotGateWay\bin\Debug\net8.0\OcelotGateWay.runtimeconfig.json
+D:\C\Projects\TryItProj – копія\TryIt\src\ApiGateWay\OcelotGateWay\bin\Debug\net8.0\OcelotGateWay.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\ApiGateWay\OcelotGateWay\bin\Debug\net8.0\OcelotGateWay.pdb
+D:\C\Projects\TryItProj – копія\TryIt\src\ApiGateWay\OcelotGateWay\bin\Debug\net8.0\FluentValidation.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\ApiGateWay\OcelotGateWay\bin\Debug\net8.0\IPAddressRange.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\ApiGateWay\OcelotGateWay\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\ApiGateWay\OcelotGateWay\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\ApiGateWay\OcelotGateWay\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\ApiGateWay\OcelotGateWay\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\ApiGateWay\OcelotGateWay\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\ApiGateWay\OcelotGateWay\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\ApiGateWay\OcelotGateWay\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\ApiGateWay\OcelotGateWay\bin\Debug\net8.0\Ocelot.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\ApiGateWay\OcelotGateWay\bin\Debug\net8.0\Ocelot.Provider.Polly.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\ApiGateWay\OcelotGateWay\bin\Debug\net8.0\Polly.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\ApiGateWay\OcelotGateWay\bin\Debug\net8.0\Polly.Core.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\ApiGateWay\OcelotGateWay\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\ApiGateWay\OcelotGateWay\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\ApiGateWay\OcelotGateWay\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\ApiGateWay\OcelotGateWay\obj\Debug\net8.0\OcelotGateWay.csproj.AssemblyReference.cache
+D:\C\Projects\TryItProj – копія\TryIt\src\ApiGateWay\OcelotGateWay\obj\Debug\net8.0\OcelotGateWay.GeneratedMSBuildEditorConfig.editorconfig
+D:\C\Projects\TryItProj – копія\TryIt\src\ApiGateWay\OcelotGateWay\obj\Debug\net8.0\OcelotGateWay.AssemblyInfoInputs.cache
+D:\C\Projects\TryItProj – копія\TryIt\src\ApiGateWay\OcelotGateWay\obj\Debug\net8.0\OcelotGateWay.AssemblyInfo.cs
+D:\C\Projects\TryItProj – копія\TryIt\src\ApiGateWay\OcelotGateWay\obj\Debug\net8.0\OcelotGateWay.csproj.CoreCompileInputs.cache
+D:\C\Projects\TryItProj – копія\TryIt\src\ApiGateWay\OcelotGateWay\obj\Debug\net8.0\OcelotGateWay.MvcApplicationPartsAssemblyInfo.cs
+D:\C\Projects\TryItProj – копія\TryIt\src\ApiGateWay\OcelotGateWay\obj\Debug\net8.0\OcelotGateWay.MvcApplicationPartsAssemblyInfo.cache
+D:\C\Projects\TryItProj – копія\TryIt\src\ApiGateWay\OcelotGateWay\obj\Debug\net8.0\OcelotGateWay.sourcelink.json
+D:\C\Projects\TryItProj – копія\TryIt\src\ApiGateWay\OcelotGateWay\obj\Debug\net8.0\staticwebassets.build.json
+D:\C\Projects\TryItProj – копія\TryIt\src\ApiGateWay\OcelotGateWay\obj\Debug\net8.0\staticwebassets.development.json
+D:\C\Projects\TryItProj – копія\TryIt\src\ApiGateWay\OcelotGateWay\obj\Debug\net8.0\staticwebassets\msbuild.OcelotGateWay.Microsoft.AspNetCore.StaticWebAssets.props
+D:\C\Projects\TryItProj – копія\TryIt\src\ApiGateWay\OcelotGateWay\obj\Debug\net8.0\staticwebassets\msbuild.build.OcelotGateWay.props
+D:\C\Projects\TryItProj – копія\TryIt\src\ApiGateWay\OcelotGateWay\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.OcelotGateWay.props
+D:\C\Projects\TryItProj – копія\TryIt\src\ApiGateWay\OcelotGateWay\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.OcelotGateWay.props
+D:\C\Projects\TryItProj – копія\TryIt\src\ApiGateWay\OcelotGateWay\obj\Debug\net8.0\staticwebassets.pack.json
+D:\C\Projects\TryItProj – копія\TryIt\src\ApiGateWay\OcelotGateWay\obj\Debug\net8.0\scopedcss\bundle\OcelotGateWay.styles.css
+D:\C\Projects\TryItProj – копія\TryIt\src\ApiGateWay\OcelotGateWay\obj\Debug\net8.0\OcelotGa.6DA251DC.Up2Date
+D:\C\Projects\TryItProj – копія\TryIt\src\ApiGateWay\OcelotGateWay\obj\Debug\net8.0\OcelotGateWay.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\ApiGateWay\OcelotGateWay\obj\Debug\net8.0\refint\OcelotGateWay.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\ApiGateWay\OcelotGateWay\obj\Debug\net8.0\OcelotGateWay.pdb
+D:\C\Projects\TryItProj – копія\TryIt\src\ApiGateWay\OcelotGateWay\obj\Debug\net8.0\OcelotGateWay.genruntimeconfig.cache
+D:\C\Projects\TryItProj – копія\TryIt\src\ApiGateWay\OcelotGateWay\obj\Debug\net8.0\ref\OcelotGateWay.dll

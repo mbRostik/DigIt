@@ -1,0 +1,26 @@
+D:\C\Projects\TryItProj\TryIt\src\MessageBus\bin\Debug\net8.0\MessageBus.deps.json
+D:\C\Projects\TryItProj\TryIt\src\MessageBus\bin\Debug\net8.0\MessageBus.dll
+D:\C\Projects\TryItProj\TryIt\src\MessageBus\bin\Debug\net8.0\MessageBus.pdb
+D:\C\Projects\TryItProj\TryIt\src\MessageBus\obj\Debug\net8.0\MessageBus.csproj.AssemblyReference.cache
+D:\C\Projects\TryItProj\TryIt\src\MessageBus\obj\Debug\net8.0\MessageBus.GeneratedMSBuildEditorConfig.editorconfig
+D:\C\Projects\TryItProj\TryIt\src\MessageBus\obj\Debug\net8.0\MessageBus.AssemblyInfoInputs.cache
+D:\C\Projects\TryItProj\TryIt\src\MessageBus\obj\Debug\net8.0\MessageBus.AssemblyInfo.cs
+D:\C\Projects\TryItProj\TryIt\src\MessageBus\obj\Debug\net8.0\MessageBus.csproj.CoreCompileInputs.cache
+D:\C\Projects\TryItProj\TryIt\src\MessageBus\obj\Debug\net8.0\MessageBus.sourcelink.json
+D:\C\Projects\TryItProj\TryIt\src\MessageBus\obj\Debug\net8.0\MessageBus.dll
+D:\C\Projects\TryItProj\TryIt\src\MessageBus\obj\Debug\net8.0\refint\MessageBus.dll
+D:\C\Projects\TryItProj\TryIt\src\MessageBus\obj\Debug\net8.0\MessageBus.pdb
+D:\C\Projects\TryItProj\TryIt\src\MessageBus\obj\Debug\net8.0\ref\MessageBus.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\MessageBus\bin\Debug\net8.0\MessageBus.deps.json
+D:\C\Projects\TryItProj – копія\TryIt\src\MessageBus\bin\Debug\net8.0\MessageBus.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\MessageBus\bin\Debug\net8.0\MessageBus.pdb
+D:\C\Projects\TryItProj – копія\TryIt\src\MessageBus\obj\Debug\net8.0\MessageBus.csproj.AssemblyReference.cache
+D:\C\Projects\TryItProj – копія\TryIt\src\MessageBus\obj\Debug\net8.0\MessageBus.GeneratedMSBuildEditorConfig.editorconfig
+D:\C\Projects\TryItProj – копія\TryIt\src\MessageBus\obj\Debug\net8.0\MessageBus.AssemblyInfoInputs.cache
+D:\C\Projects\TryItProj – копія\TryIt\src\MessageBus\obj\Debug\net8.0\MessageBus.AssemblyInfo.cs
+D:\C\Projects\TryItProj – копія\TryIt\src\MessageBus\obj\Debug\net8.0\MessageBus.csproj.CoreCompileInputs.cache
+D:\C\Projects\TryItProj – копія\TryIt\src\MessageBus\obj\Debug\net8.0\MessageBus.sourcelink.json
+D:\C\Projects\TryItProj – копія\TryIt\src\MessageBus\obj\Debug\net8.0\MessageBus.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\MessageBus\obj\Debug\net8.0\refint\MessageBus.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\MessageBus\obj\Debug\net8.0\MessageBus.pdb
+D:\C\Projects\TryItProj – копія\TryIt\src\MessageBus\obj\Debug\net8.0\ref\MessageBus.dll

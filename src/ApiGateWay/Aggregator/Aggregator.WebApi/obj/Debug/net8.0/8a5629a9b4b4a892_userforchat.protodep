@@ -1,0 +1,2 @@
+obj\Debug\net8.0/Userforchat.cs \
+obj\Debug\net8.0/UserforchatGrpc.cs: ../Aggregator.Application/Contracts/protos/UserProtos/userforchat.proto

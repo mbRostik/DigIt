@@ -1,0 +1,3 @@
+obj\Debug\net8.0/Userposts.cs \
+obj\Debug\net8.0/UserpostsGrpc.cs: C:/Users/rostd/.nuget/packages/grpc.tools/2.62.0/build/native/include/google/protobuf/timestamp.proto\
+ ../Posts.Application/Contracts/protos/userposts.proto

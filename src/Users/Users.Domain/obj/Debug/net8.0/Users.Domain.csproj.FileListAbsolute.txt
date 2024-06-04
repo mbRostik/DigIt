@@ -1,0 +1,24 @@
+D:\C\Projects\TryItProj\TryIt\src\Users\Users.Domain\bin\Debug\net8.0\Users.Domain.deps.json
+D:\C\Projects\TryItProj\TryIt\src\Users\Users.Domain\bin\Debug\net8.0\Users.Domain.dll
+D:\C\Projects\TryItProj\TryIt\src\Users\Users.Domain\bin\Debug\net8.0\Users.Domain.pdb
+D:\C\Projects\TryItProj\TryIt\src\Users\Users.Domain\obj\Debug\net8.0\Users.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\C\Projects\TryItProj\TryIt\src\Users\Users.Domain\obj\Debug\net8.0\Users.Domain.AssemblyInfoInputs.cache
+D:\C\Projects\TryItProj\TryIt\src\Users\Users.Domain\obj\Debug\net8.0\Users.Domain.AssemblyInfo.cs
+D:\C\Projects\TryItProj\TryIt\src\Users\Users.Domain\obj\Debug\net8.0\Users.Domain.csproj.CoreCompileInputs.cache
+D:\C\Projects\TryItProj\TryIt\src\Users\Users.Domain\obj\Debug\net8.0\Users.Domain.sourcelink.json
+D:\C\Projects\TryItProj\TryIt\src\Users\Users.Domain\obj\Debug\net8.0\Users.Domain.dll
+D:\C\Projects\TryItProj\TryIt\src\Users\Users.Domain\obj\Debug\net8.0\refint\Users.Domain.dll
+D:\C\Projects\TryItProj\TryIt\src\Users\Users.Domain\obj\Debug\net8.0\Users.Domain.pdb
+D:\C\Projects\TryItProj\TryIt\src\Users\Users.Domain\obj\Debug\net8.0\ref\Users.Domain.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\Users\Users.Domain\bin\Debug\net8.0\Users.Domain.deps.json
+D:\C\Projects\TryItProj – копія\TryIt\src\Users\Users.Domain\bin\Debug\net8.0\Users.Domain.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\Users\Users.Domain\bin\Debug\net8.0\Users.Domain.pdb
+D:\C\Projects\TryItProj – копія\TryIt\src\Users\Users.Domain\obj\Debug\net8.0\Users.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\C\Projects\TryItProj – копія\TryIt\src\Users\Users.Domain\obj\Debug\net8.0\Users.Domain.AssemblyInfoInputs.cache
+D:\C\Projects\TryItProj – копія\TryIt\src\Users\Users.Domain\obj\Debug\net8.0\Users.Domain.AssemblyInfo.cs
+D:\C\Projects\TryItProj – копія\TryIt\src\Users\Users.Domain\obj\Debug\net8.0\Users.Domain.csproj.CoreCompileInputs.cache
+D:\C\Projects\TryItProj – копія\TryIt\src\Users\Users.Domain\obj\Debug\net8.0\Users.Domain.sourcelink.json
+D:\C\Projects\TryItProj – копія\TryIt\src\Users\Users.Domain\obj\Debug\net8.0\Users.Domain.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\Users\Users.Domain\obj\Debug\net8.0\refint\Users.Domain.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\Users\Users.Domain\obj\Debug\net8.0\Users.Domain.pdb
+D:\C\Projects\TryItProj – копія\TryIt\src\Users\Users.Domain\obj\Debug\net8.0\ref\Users.Domain.dll

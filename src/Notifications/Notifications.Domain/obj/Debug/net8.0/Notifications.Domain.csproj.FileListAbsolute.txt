@@ -1,0 +1,24 @@
+D:\C\Projects\TryItProj\TryIt\src\Notifications\Notifications.Domain\bin\Debug\net8.0\Notifications.Domain.deps.json
+D:\C\Projects\TryItProj\TryIt\src\Notifications\Notifications.Domain\bin\Debug\net8.0\Notifications.Domain.dll
+D:\C\Projects\TryItProj\TryIt\src\Notifications\Notifications.Domain\bin\Debug\net8.0\Notifications.Domain.pdb
+D:\C\Projects\TryItProj\TryIt\src\Notifications\Notifications.Domain\obj\Debug\net8.0\Notifications.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\C\Projects\TryItProj\TryIt\src\Notifications\Notifications.Domain\obj\Debug\net8.0\Notifications.Domain.AssemblyInfoInputs.cache
+D:\C\Projects\TryItProj\TryIt\src\Notifications\Notifications.Domain\obj\Debug\net8.0\Notifications.Domain.AssemblyInfo.cs
+D:\C\Projects\TryItProj\TryIt\src\Notifications\Notifications.Domain\obj\Debug\net8.0\Notifications.Domain.csproj.CoreCompileInputs.cache
+D:\C\Projects\TryItProj\TryIt\src\Notifications\Notifications.Domain\obj\Debug\net8.0\Notifications.Domain.sourcelink.json
+D:\C\Projects\TryItProj\TryIt\src\Notifications\Notifications.Domain\obj\Debug\net8.0\Notifications.Domain.dll
+D:\C\Projects\TryItProj\TryIt\src\Notifications\Notifications.Domain\obj\Debug\net8.0\refint\Notifications.Domain.dll
+D:\C\Projects\TryItProj\TryIt\src\Notifications\Notifications.Domain\obj\Debug\net8.0\Notifications.Domain.pdb
+D:\C\Projects\TryItProj\TryIt\src\Notifications\Notifications.Domain\obj\Debug\net8.0\ref\Notifications.Domain.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\Notifications\Notifications.Domain\bin\Debug\net8.0\Notifications.Domain.deps.json
+D:\C\Projects\TryItProj – копія\TryIt\src\Notifications\Notifications.Domain\bin\Debug\net8.0\Notifications.Domain.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\Notifications\Notifications.Domain\bin\Debug\net8.0\Notifications.Domain.pdb
+D:\C\Projects\TryItProj – копія\TryIt\src\Notifications\Notifications.Domain\obj\Debug\net8.0\Notifications.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\C\Projects\TryItProj – копія\TryIt\src\Notifications\Notifications.Domain\obj\Debug\net8.0\Notifications.Domain.AssemblyInfoInputs.cache
+D:\C\Projects\TryItProj – копія\TryIt\src\Notifications\Notifications.Domain\obj\Debug\net8.0\Notifications.Domain.AssemblyInfo.cs
+D:\C\Projects\TryItProj – копія\TryIt\src\Notifications\Notifications.Domain\obj\Debug\net8.0\Notifications.Domain.csproj.CoreCompileInputs.cache
+D:\C\Projects\TryItProj – копія\TryIt\src\Notifications\Notifications.Domain\obj\Debug\net8.0\Notifications.Domain.sourcelink.json
+D:\C\Projects\TryItProj – копія\TryIt\src\Notifications\Notifications.Domain\obj\Debug\net8.0\Notifications.Domain.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\Notifications\Notifications.Domain\obj\Debug\net8.0\refint\Notifications.Domain.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\Notifications\Notifications.Domain\obj\Debug\net8.0\Notifications.Domain.pdb
+D:\C\Projects\TryItProj – копія\TryIt\src\Notifications\Notifications.Domain\obj\Debug\net8.0\ref\Notifications.Domain.dll

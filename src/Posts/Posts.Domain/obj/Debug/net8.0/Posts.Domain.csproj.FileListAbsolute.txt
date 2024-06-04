@@ -1,0 +1,24 @@
+D:\C\Projects\TryItProj\TryIt\src\Posts\Posts.Domain\bin\Debug\net8.0\Posts.Domain.deps.json
+D:\C\Projects\TryItProj\TryIt\src\Posts\Posts.Domain\bin\Debug\net8.0\Posts.Domain.dll
+D:\C\Projects\TryItProj\TryIt\src\Posts\Posts.Domain\bin\Debug\net8.0\Posts.Domain.pdb
+D:\C\Projects\TryItProj\TryIt\src\Posts\Posts.Domain\obj\Debug\net8.0\Posts.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\C\Projects\TryItProj\TryIt\src\Posts\Posts.Domain\obj\Debug\net8.0\Posts.Domain.AssemblyInfoInputs.cache
+D:\C\Projects\TryItProj\TryIt\src\Posts\Posts.Domain\obj\Debug\net8.0\Posts.Domain.AssemblyInfo.cs
+D:\C\Projects\TryItProj\TryIt\src\Posts\Posts.Domain\obj\Debug\net8.0\Posts.Domain.csproj.CoreCompileInputs.cache
+D:\C\Projects\TryItProj\TryIt\src\Posts\Posts.Domain\obj\Debug\net8.0\Posts.Domain.sourcelink.json
+D:\C\Projects\TryItProj\TryIt\src\Posts\Posts.Domain\obj\Debug\net8.0\Posts.Domain.dll
+D:\C\Projects\TryItProj\TryIt\src\Posts\Posts.Domain\obj\Debug\net8.0\refint\Posts.Domain.dll
+D:\C\Projects\TryItProj\TryIt\src\Posts\Posts.Domain\obj\Debug\net8.0\Posts.Domain.pdb
+D:\C\Projects\TryItProj\TryIt\src\Posts\Posts.Domain\obj\Debug\net8.0\ref\Posts.Domain.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\Posts\Posts.Domain\bin\Debug\net8.0\Posts.Domain.deps.json
+D:\C\Projects\TryItProj – копія\TryIt\src\Posts\Posts.Domain\bin\Debug\net8.0\Posts.Domain.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\Posts\Posts.Domain\bin\Debug\net8.0\Posts.Domain.pdb
+D:\C\Projects\TryItProj – копія\TryIt\src\Posts\Posts.Domain\obj\Debug\net8.0\Posts.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\C\Projects\TryItProj – копія\TryIt\src\Posts\Posts.Domain\obj\Debug\net8.0\Posts.Domain.AssemblyInfoInputs.cache
+D:\C\Projects\TryItProj – копія\TryIt\src\Posts\Posts.Domain\obj\Debug\net8.0\Posts.Domain.AssemblyInfo.cs
+D:\C\Projects\TryItProj – копія\TryIt\src\Posts\Posts.Domain\obj\Debug\net8.0\Posts.Domain.csproj.CoreCompileInputs.cache
+D:\C\Projects\TryItProj – копія\TryIt\src\Posts\Posts.Domain\obj\Debug\net8.0\Posts.Domain.sourcelink.json
+D:\C\Projects\TryItProj – копія\TryIt\src\Posts\Posts.Domain\obj\Debug\net8.0\Posts.Domain.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\Posts\Posts.Domain\obj\Debug\net8.0\refint\Posts.Domain.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\Posts\Posts.Domain\obj\Debug\net8.0\Posts.Domain.pdb
+D:\C\Projects\TryItProj – копія\TryIt\src\Posts\Posts.Domain\obj\Debug\net8.0\ref\Posts.Domain.dll

@@ -1,0 +1,30 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+
+:root {
+    font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+    font-weight: 400;
+    color: black;
+    background-color: #F2F2F2;
+    font-synthesis: none;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.Main_container {
+    width: 1600px;
+    max-width: 1600px;
+    margin: 0 auto;
+}
+.All_Container{
+    width:100%;
+}
+.Up_Bar{
+    width:100%;
+}
+
+body {
+    all: unset;
+
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3b9xHeqYI+yEXgCuQ5G0FaK15bxE6+kuuuO7C4+FKdU=",
+  "Source": "SagasStateMachines.WebApi",
+  "BasePath": "_content/SagasStateMachines.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

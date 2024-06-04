@@ -1,0 +1,24 @@
+D:\C\Projects\TryItProj\TryIt\src\Chats\Chats.Domain\bin\Debug\net8.0\Chats.Domain.deps.json
+D:\C\Projects\TryItProj\TryIt\src\Chats\Chats.Domain\bin\Debug\net8.0\Chats.Domain.dll
+D:\C\Projects\TryItProj\TryIt\src\Chats\Chats.Domain\bin\Debug\net8.0\Chats.Domain.pdb
+D:\C\Projects\TryItProj\TryIt\src\Chats\Chats.Domain\obj\Debug\net8.0\Chats.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\C\Projects\TryItProj\TryIt\src\Chats\Chats.Domain\obj\Debug\net8.0\Chats.Domain.AssemblyInfoInputs.cache
+D:\C\Projects\TryItProj\TryIt\src\Chats\Chats.Domain\obj\Debug\net8.0\Chats.Domain.AssemblyInfo.cs
+D:\C\Projects\TryItProj\TryIt\src\Chats\Chats.Domain\obj\Debug\net8.0\Chats.Domain.csproj.CoreCompileInputs.cache
+D:\C\Projects\TryItProj\TryIt\src\Chats\Chats.Domain\obj\Debug\net8.0\Chats.Domain.sourcelink.json
+D:\C\Projects\TryItProj\TryIt\src\Chats\Chats.Domain\obj\Debug\net8.0\Chats.Domain.dll
+D:\C\Projects\TryItProj\TryIt\src\Chats\Chats.Domain\obj\Debug\net8.0\refint\Chats.Domain.dll
+D:\C\Projects\TryItProj\TryIt\src\Chats\Chats.Domain\obj\Debug\net8.0\Chats.Domain.pdb
+D:\C\Projects\TryItProj\TryIt\src\Chats\Chats.Domain\obj\Debug\net8.0\ref\Chats.Domain.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\Chats\Chats.Domain\bin\Debug\net8.0\Chats.Domain.deps.json
+D:\C\Projects\TryItProj – копія\TryIt\src\Chats\Chats.Domain\bin\Debug\net8.0\Chats.Domain.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\Chats\Chats.Domain\bin\Debug\net8.0\Chats.Domain.pdb
+D:\C\Projects\TryItProj – копія\TryIt\src\Chats\Chats.Domain\obj\Debug\net8.0\Chats.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\C\Projects\TryItProj – копія\TryIt\src\Chats\Chats.Domain\obj\Debug\net8.0\Chats.Domain.AssemblyInfoInputs.cache
+D:\C\Projects\TryItProj – копія\TryIt\src\Chats\Chats.Domain\obj\Debug\net8.0\Chats.Domain.AssemblyInfo.cs
+D:\C\Projects\TryItProj – копія\TryIt\src\Chats\Chats.Domain\obj\Debug\net8.0\Chats.Domain.csproj.CoreCompileInputs.cache
+D:\C\Projects\TryItProj – копія\TryIt\src\Chats\Chats.Domain\obj\Debug\net8.0\Chats.Domain.sourcelink.json
+D:\C\Projects\TryItProj – копія\TryIt\src\Chats\Chats.Domain\obj\Debug\net8.0\Chats.Domain.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\Chats\Chats.Domain\obj\Debug\net8.0\refint\Chats.Domain.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\Chats\Chats.Domain\obj\Debug\net8.0\Chats.Domain.pdb
+D:\C\Projects\TryItProj – копія\TryIt\src\Chats\Chats.Domain\obj\Debug\net8.0\ref\Chats.Domain.dll

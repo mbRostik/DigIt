@@ -1,0 +1,26 @@
+D:\C\Projects\TryItProj\TryIt\src\IdentityServer\IdentityServer.Infrastructure.Data\bin\Debug\net8.0\IdentityServer.Infrastructure.Data.deps.json
+D:\C\Projects\TryItProj\TryIt\src\IdentityServer\IdentityServer.Infrastructure.Data\bin\Debug\net8.0\IdentityServer.Infrastructure.Data.dll
+D:\C\Projects\TryItProj\TryIt\src\IdentityServer\IdentityServer.Infrastructure.Data\bin\Debug\net8.0\IdentityServer.Infrastructure.Data.pdb
+D:\C\Projects\TryItProj\TryIt\src\IdentityServer\IdentityServer.Infrastructure.Data\obj\Debug\net8.0\IdentityServer.Infrastructure.Data.csproj.AssemblyReference.cache
+D:\C\Projects\TryItProj\TryIt\src\IdentityServer\IdentityServer.Infrastructure.Data\obj\Debug\net8.0\IdentityServer.Infrastructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\C\Projects\TryItProj\TryIt\src\IdentityServer\IdentityServer.Infrastructure.Data\obj\Debug\net8.0\IdentityServer.Infrastructure.Data.AssemblyInfoInputs.cache
+D:\C\Projects\TryItProj\TryIt\src\IdentityServer\IdentityServer.Infrastructure.Data\obj\Debug\net8.0\IdentityServer.Infrastructure.Data.AssemblyInfo.cs
+D:\C\Projects\TryItProj\TryIt\src\IdentityServer\IdentityServer.Infrastructure.Data\obj\Debug\net8.0\IdentityServer.Infrastructure.Data.csproj.CoreCompileInputs.cache
+D:\C\Projects\TryItProj\TryIt\src\IdentityServer\IdentityServer.Infrastructure.Data\obj\Debug\net8.0\IdentityServer.Infrastructure.Data.sourcelink.json
+D:\C\Projects\TryItProj\TryIt\src\IdentityServer\IdentityServer.Infrastructure.Data\obj\Debug\net8.0\IdentityServer.Infrastructure.Data.dll
+D:\C\Projects\TryItProj\TryIt\src\IdentityServer\IdentityServer.Infrastructure.Data\obj\Debug\net8.0\refint\IdentityServer.Infrastructure.Data.dll
+D:\C\Projects\TryItProj\TryIt\src\IdentityServer\IdentityServer.Infrastructure.Data\obj\Debug\net8.0\IdentityServer.Infrastructure.Data.pdb
+D:\C\Projects\TryItProj\TryIt\src\IdentityServer\IdentityServer.Infrastructure.Data\obj\Debug\net8.0\ref\IdentityServer.Infrastructure.Data.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\IdentityServer\IdentityServer.Infrastructure.Data\bin\Debug\net8.0\IdentityServer.Infrastructure.Data.deps.json
+D:\C\Projects\TryItProj – копія\TryIt\src\IdentityServer\IdentityServer.Infrastructure.Data\bin\Debug\net8.0\IdentityServer.Infrastructure.Data.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\IdentityServer\IdentityServer.Infrastructure.Data\bin\Debug\net8.0\IdentityServer.Infrastructure.Data.pdb
+D:\C\Projects\TryItProj – копія\TryIt\src\IdentityServer\IdentityServer.Infrastructure.Data\obj\Debug\net8.0\IdentityServer.Infrastructure.Data.csproj.AssemblyReference.cache
+D:\C\Projects\TryItProj – копія\TryIt\src\IdentityServer\IdentityServer.Infrastructure.Data\obj\Debug\net8.0\IdentityServer.Infrastructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\C\Projects\TryItProj – копія\TryIt\src\IdentityServer\IdentityServer.Infrastructure.Data\obj\Debug\net8.0\IdentityServer.Infrastructure.Data.AssemblyInfoInputs.cache
+D:\C\Projects\TryItProj – копія\TryIt\src\IdentityServer\IdentityServer.Infrastructure.Data\obj\Debug\net8.0\IdentityServer.Infrastructure.Data.AssemblyInfo.cs
+D:\C\Projects\TryItProj – копія\TryIt\src\IdentityServer\IdentityServer.Infrastructure.Data\obj\Debug\net8.0\IdentityServer.Infrastructure.Data.csproj.CoreCompileInputs.cache
+D:\C\Projects\TryItProj – копія\TryIt\src\IdentityServer\IdentityServer.Infrastructure.Data\obj\Debug\net8.0\IdentityServer.Infrastructure.Data.sourcelink.json
+D:\C\Projects\TryItProj – копія\TryIt\src\IdentityServer\IdentityServer.Infrastructure.Data\obj\Debug\net8.0\IdentityServer.Infrastructure.Data.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\IdentityServer\IdentityServer.Infrastructure.Data\obj\Debug\net8.0\refint\IdentityServer.Infrastructure.Data.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\IdentityServer\IdentityServer.Infrastructure.Data\obj\Debug\net8.0\IdentityServer.Infrastructure.Data.pdb
+D:\C\Projects\TryItProj – копія\TryIt\src\IdentityServer\IdentityServer.Infrastructure.Data\obj\Debug\net8.0\ref\IdentityServer.Infrastructure.Data.dll

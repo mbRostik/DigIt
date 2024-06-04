@@ -1,0 +1,208 @@
+.search-input-navBar {
+
+    height: 50px;
+    max-width: 375px;
+    width: 375px;
+    max-height: 60px;
+    color: #717171;
+    background-color: #F2F2F2;
+    padding: 10px 15px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 25px;
+    outline: none;
+    margin-right: 55px;
+}
+
+    .search-input-navBar::placeholder {
+        color: #717171;
+    }
+
+    .search-input-navBar:focus {
+        border-color: #717171;
+    }
+
+
+    .search-input-navBar::-webkit-search-decoration,
+    .search-input-navBar::-webkit-search-cancel-button,
+    .search-input-navBar::-webkit-search-results-button,
+    .search-input-navBar::-webkit-search-results-decoration {
+        display: none;
+    }
+
+.search-results {
+    display: flex;
+    flex-direction: column;
+}
+
+
+.LeftBar_Up {
+    justify-content: center;
+}
+
+.user-item {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    margin: 10px 0;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+    z-index: 999;
+}
+
+
+    .user-item:hover {
+        cursor: pointer;
+        transform: translateY(-2px);
+        box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+    }
+
+.user-name {
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 5px;
+}
+
+.user-avatar {
+    width: 40px;
+    height: 40px;
+    min-width: 40px;
+    min-height: 40px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+.SearchContainer {
+    align-content: center;
+    align-items: center;
+    margin-right: 50px;
+    max-width: 660px;
+}
+.NavBarMain{
+    align-content:center;
+    align-items:center;
+    width:100%;
+    max-height:150px;
+    height:150px;
+    background-color:black;
+}
+
+.NavBarMenuUnAuth {
+    display: flex;
+}
+.HomeIcon{
+    max-width:115px;
+    margin-right:150px;
+}
+
+.NavBarButton_Three {
+    text-decoration: none;
+    align-content: center;
+    align-items: center;
+    display: flex;
+    width: 500px;
+    justify-content: space-between;
+    margin-right: 150px;
+}
+
+.NavBarButton_B {
+    text-decoration: none;
+    color: #F2F2F2;
+    height: 22px;
+    font-size: 18px;
+    font-weight: 600;
+    cursor: pointer;
+}
+.nav-link {
+    text-decoration: none;
+}
+    .NavBarButton_B:hover {
+        color: #F2AB27;
+        border-block-end: 1px solid #F2AB27;
+    }
+
+
+.NavBarButton_Login, .NavBarButton_Registration {
+    width:180px;
+    height:50px;
+    border: none;
+    border-radius: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings: "slnt" 0;
+    margin: 5px;
+    outline: none;
+    transition: color 0.3s ease, background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.NavBarButton_Login {
+    margin-right:40px;
+    border: 2px solid orange;
+    background-color: orange;
+    color: white;
+}
+
+    .NavBarButton_Login:hover {
+        color: orange;
+        background-color: transparent;
+    }
+
+.NavBarButton_Registration {
+    background-color: transparent;
+    color: orange;
+    border: 2px solid orange;
+}
+
+    .NavBarButton_Registration:hover {
+        background-color: orange;
+        color: white;
+    }
+
+.NavBarButton_UnAuth {
+    display: flex;
+    align-content: center;
+    align-items: center;
+}
+
+.NavBarMenu {
+    max-height: 100%;
+    display: flex;
+    align-items: start; 
+    margin: 25px 40px 25px 0
+}
+
+
+.NavBarAvatar{
+    width:100px;
+    height:100px;
+    object-fit:cover;
+    border-radius:50%;
+}
+
+.NavProfile {
+    margin-left:150px;
+    align-content: center;
+}
+.NavBarButton {
+    display: flex;
+    text-decoration: none;
+    align-content: center;
+    align-items: center;
+}
+.NavLink {
+    all: unset;
+    color: inherit;
+    background: none;
+}
+.NavProfile_Text{
+   margin-left:25px;
+   color: white;
+   font-weight:600;
+   font-size:16px;
+}

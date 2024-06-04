@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4jiWIvPI3klzRubxL7QKi92LzorCGAM4oObuJxuTrIU=",
+  "Source": "Reports.WebApi",
+  "BasePath": "_content/Reports.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

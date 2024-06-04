@@ -1,0 +1,24 @@
+D:\C\Projects\TryItProj\TryIt\src\Subscriptions\Subscriptions.Domain\bin\Debug\net8.0\Subscriptions.Domain.deps.json
+D:\C\Projects\TryItProj\TryIt\src\Subscriptions\Subscriptions.Domain\bin\Debug\net8.0\Subscriptions.Domain.dll
+D:\C\Projects\TryItProj\TryIt\src\Subscriptions\Subscriptions.Domain\bin\Debug\net8.0\Subscriptions.Domain.pdb
+D:\C\Projects\TryItProj\TryIt\src\Subscriptions\Subscriptions.Domain\obj\Debug\net8.0\Subscriptions.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\C\Projects\TryItProj\TryIt\src\Subscriptions\Subscriptions.Domain\obj\Debug\net8.0\Subscriptions.Domain.AssemblyInfoInputs.cache
+D:\C\Projects\TryItProj\TryIt\src\Subscriptions\Subscriptions.Domain\obj\Debug\net8.0\Subscriptions.Domain.AssemblyInfo.cs
+D:\C\Projects\TryItProj\TryIt\src\Subscriptions\Subscriptions.Domain\obj\Debug\net8.0\Subscriptions.Domain.csproj.CoreCompileInputs.cache
+D:\C\Projects\TryItProj\TryIt\src\Subscriptions\Subscriptions.Domain\obj\Debug\net8.0\Subscriptions.Domain.sourcelink.json
+D:\C\Projects\TryItProj\TryIt\src\Subscriptions\Subscriptions.Domain\obj\Debug\net8.0\Subscriptions.Domain.dll
+D:\C\Projects\TryItProj\TryIt\src\Subscriptions\Subscriptions.Domain\obj\Debug\net8.0\refint\Subscriptions.Domain.dll
+D:\C\Projects\TryItProj\TryIt\src\Subscriptions\Subscriptions.Domain\obj\Debug\net8.0\Subscriptions.Domain.pdb
+D:\C\Projects\TryItProj\TryIt\src\Subscriptions\Subscriptions.Domain\obj\Debug\net8.0\ref\Subscriptions.Domain.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\Subscriptions\Subscriptions.Domain\bin\Debug\net8.0\Subscriptions.Domain.deps.json
+D:\C\Projects\TryItProj – копія\TryIt\src\Subscriptions\Subscriptions.Domain\bin\Debug\net8.0\Subscriptions.Domain.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\Subscriptions\Subscriptions.Domain\bin\Debug\net8.0\Subscriptions.Domain.pdb
+D:\C\Projects\TryItProj – копія\TryIt\src\Subscriptions\Subscriptions.Domain\obj\Debug\net8.0\Subscriptions.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\C\Projects\TryItProj – копія\TryIt\src\Subscriptions\Subscriptions.Domain\obj\Debug\net8.0\Subscriptions.Domain.AssemblyInfoInputs.cache
+D:\C\Projects\TryItProj – копія\TryIt\src\Subscriptions\Subscriptions.Domain\obj\Debug\net8.0\Subscriptions.Domain.AssemblyInfo.cs
+D:\C\Projects\TryItProj – копія\TryIt\src\Subscriptions\Subscriptions.Domain\obj\Debug\net8.0\Subscriptions.Domain.csproj.CoreCompileInputs.cache
+D:\C\Projects\TryItProj – копія\TryIt\src\Subscriptions\Subscriptions.Domain\obj\Debug\net8.0\Subscriptions.Domain.sourcelink.json
+D:\C\Projects\TryItProj – копія\TryIt\src\Subscriptions\Subscriptions.Domain\obj\Debug\net8.0\Subscriptions.Domain.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\Subscriptions\Subscriptions.Domain\obj\Debug\net8.0\refint\Subscriptions.Domain.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\Subscriptions\Subscriptions.Domain\obj\Debug\net8.0\Subscriptions.Domain.pdb
+D:\C\Projects\TryItProj – копія\TryIt\src\Subscriptions\Subscriptions.Domain\obj\Debug\net8.0\ref\Subscriptions.Domain.dll

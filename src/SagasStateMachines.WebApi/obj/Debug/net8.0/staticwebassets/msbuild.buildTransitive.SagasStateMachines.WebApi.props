@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\SagasStateMachines.WebApi.props" />
+</Project>

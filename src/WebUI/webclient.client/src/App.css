@@ -1,0 +1,154 @@
+﻿.Main_First_Container {
+    max-height: 740px;
+    height: 740px;
+    width: 1590px;
+    max-width: 1590px;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 120px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+}iner{
+}
+.Main_First_Container::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('../../public/Rectangle 28.png');
+    background-size: cover;
+    background-position: center;
+    filter: blur(8px);
+    z-index: -1;
+}
+
+.Main_First_Container_Content {
+    position: relative; 
+    z-index: 1;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+.Main_First_Container_Info {
+    margin-top:470px;
+    margin-left: 55px;
+    padding: 20px;
+    height: 170px;
+    width: 400px;
+    background-color: #F29727;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.Main_First_Container_Info_Title{
+    font-size: 20px;
+    font-weight: 600;
+
+}
+.Main_First_Container_Info_Text {
+    font-size: 16px;
+    font-weight: 200;
+}
+.Main_Second_Container_Title{
+    font-size: 30px;
+    font-weight:600;
+    margin-bottom: 60px;
+}
+
+
+.Main_Second_Container_Items{
+    display: flex;
+    gap:75px;
+}
+
+.Main_Third_Container {
+    margin-top: 150px;
+    max-width: 1590px;
+    max-height: 500px;
+    height: 500px;
+    width: 1590px;
+    background: linear-gradient(to bottom, #ffe0b2, #ffffff); 
+    border-radius: 15px;
+    display: flex;
+}
+
+.Main_Third_Container_Info {
+    padding-block-start:50px;
+    margin-left: 125px;
+    max-width: 835px;
+    color: black;
+}
+.Main_Third_Container_Info_Title{
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.Main_Third_Container_Info_Text{
+    margin-top: 55px;
+    font-size: 30px;
+    font-weight: 400;
+    margin-bottom: 80px;
+}
+
+.Main_Third_Container_Info_Button {
+    color: white;
+    background-color: #F29727;
+    width: 340px;
+    height: 65px;
+    max-width: 340px;
+    max-height: 65px;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    border-radius: 20px;
+}
+.Main_Firth_Container{
+    margin-top:130px;
+}
+
+.Main_Firth_Container_Text{
+    margin-top: 15px;
+    font-size: 16px;
+}
+.Main_Firth_Container_Photos {
+    display: flex;
+    gap: 35px;
+    margin-left: 60px;
+    margin-top: 60px;
+}
+.Main_Firth_Container_SecondPhoto_Image {
+    width: 340px;
+    height: 400px;
+    display: block;
+}
+.Main_Firth_Container_FirstPhoto {
+    display: flex;
+    flex-direction: column;
+}
+
+.Main_Firth_Container_FirstPhoto_Image {
+    width: 715px;
+    display: block;
+    height: 400px;
+}
+
+.image-container {
+    position: relative;
+    display: inline-block; 
+}
+
+.Main_Fifth_Container{
+    margin-top:130px;
+}
+
+.Main_Fifth_Container_Map{
+    margin-top:60px;
+    margin-left: 130px;
+    max-width: 1340px;
+    max-height: 740px;
+    height: 740px;
+    border-radius:40px;
+}

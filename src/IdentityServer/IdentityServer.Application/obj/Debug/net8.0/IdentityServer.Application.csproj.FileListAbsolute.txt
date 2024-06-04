@@ -1,0 +1,32 @@
+D:\C\Projects\TryItProj\TryIt\src\IdentityServer\IdentityServer.Application\bin\Debug\net8.0\IdentityServer.Application.deps.json
+D:\C\Projects\TryItProj\TryIt\src\IdentityServer\IdentityServer.Application\bin\Debug\net8.0\IdentityServer.Application.dll
+D:\C\Projects\TryItProj\TryIt\src\IdentityServer\IdentityServer.Application\bin\Debug\net8.0\IdentityServer.Application.pdb
+D:\C\Projects\TryItProj\TryIt\src\IdentityServer\IdentityServer.Application\bin\Debug\net8.0\MessageBus.dll
+D:\C\Projects\TryItProj\TryIt\src\IdentityServer\IdentityServer.Application\bin\Debug\net8.0\MessageBus.pdb
+D:\C\Projects\TryItProj\TryIt\src\IdentityServer\IdentityServer.Application\obj\Debug\net8.0\IdentityServer.Application.csproj.AssemblyReference.cache
+D:\C\Projects\TryItProj\TryIt\src\IdentityServer\IdentityServer.Application\obj\Debug\net8.0\IdentityServer.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\C\Projects\TryItProj\TryIt\src\IdentityServer\IdentityServer.Application\obj\Debug\net8.0\IdentityServer.Application.AssemblyInfoInputs.cache
+D:\C\Projects\TryItProj\TryIt\src\IdentityServer\IdentityServer.Application\obj\Debug\net8.0\IdentityServer.Application.AssemblyInfo.cs
+D:\C\Projects\TryItProj\TryIt\src\IdentityServer\IdentityServer.Application\obj\Debug\net8.0\IdentityServer.Application.csproj.CoreCompileInputs.cache
+D:\C\Projects\TryItProj\TryIt\src\IdentityServer\IdentityServer.Application\obj\Debug\net8.0\IdentityServer.Application.sourcelink.json
+D:\C\Projects\TryItProj\TryIt\src\IdentityServer\IdentityServer.Application\obj\Debug\net8.0\Identity.6BA59446.Up2Date
+D:\C\Projects\TryItProj\TryIt\src\IdentityServer\IdentityServer.Application\obj\Debug\net8.0\IdentityServer.Application.dll
+D:\C\Projects\TryItProj\TryIt\src\IdentityServer\IdentityServer.Application\obj\Debug\net8.0\refint\IdentityServer.Application.dll
+D:\C\Projects\TryItProj\TryIt\src\IdentityServer\IdentityServer.Application\obj\Debug\net8.0\IdentityServer.Application.pdb
+D:\C\Projects\TryItProj\TryIt\src\IdentityServer\IdentityServer.Application\obj\Debug\net8.0\ref\IdentityServer.Application.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\IdentityServer\IdentityServer.Application\bin\Debug\net8.0\IdentityServer.Application.deps.json
+D:\C\Projects\TryItProj – копія\TryIt\src\IdentityServer\IdentityServer.Application\bin\Debug\net8.0\IdentityServer.Application.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\IdentityServer\IdentityServer.Application\bin\Debug\net8.0\IdentityServer.Application.pdb
+D:\C\Projects\TryItProj – копія\TryIt\src\IdentityServer\IdentityServer.Application\bin\Debug\net8.0\MessageBus.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\IdentityServer\IdentityServer.Application\bin\Debug\net8.0\MessageBus.pdb
+D:\C\Projects\TryItProj – копія\TryIt\src\IdentityServer\IdentityServer.Application\obj\Debug\net8.0\IdentityServer.Application.csproj.AssemblyReference.cache
+D:\C\Projects\TryItProj – копія\TryIt\src\IdentityServer\IdentityServer.Application\obj\Debug\net8.0\IdentityServer.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\C\Projects\TryItProj – копія\TryIt\src\IdentityServer\IdentityServer.Application\obj\Debug\net8.0\IdentityServer.Application.AssemblyInfoInputs.cache
+D:\C\Projects\TryItProj – копія\TryIt\src\IdentityServer\IdentityServer.Application\obj\Debug\net8.0\IdentityServer.Application.AssemblyInfo.cs
+D:\C\Projects\TryItProj – копія\TryIt\src\IdentityServer\IdentityServer.Application\obj\Debug\net8.0\IdentityServer.Application.csproj.CoreCompileInputs.cache
+D:\C\Projects\TryItProj – копія\TryIt\src\IdentityServer\IdentityServer.Application\obj\Debug\net8.0\IdentityServer.Application.sourcelink.json
+D:\C\Projects\TryItProj – копія\TryIt\src\IdentityServer\IdentityServer.Application\obj\Debug\net8.0\Identity.6BA59446.Up2Date
+D:\C\Projects\TryItProj – копія\TryIt\src\IdentityServer\IdentityServer.Application\obj\Debug\net8.0\IdentityServer.Application.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\IdentityServer\IdentityServer.Application\obj\Debug\net8.0\refint\IdentityServer.Application.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\IdentityServer\IdentityServer.Application\obj\Debug\net8.0\IdentityServer.Application.pdb
+D:\C\Projects\TryItProj – копія\TryIt\src\IdentityServer\IdentityServer.Application\obj\Debug\net8.0\ref\IdentityServer.Application.dll

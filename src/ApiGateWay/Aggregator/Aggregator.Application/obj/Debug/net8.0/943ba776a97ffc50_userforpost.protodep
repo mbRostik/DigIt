@@ -1,0 +1,2 @@
+obj\Debug\net8.0\Contracts\protos\UserProtos/Userforpost.cs \
+obj\Debug\net8.0\Contracts\protos\UserProtos/UserforpostGrpc.cs: Contracts/protos/UserProtos/userforpost.proto

@@ -1,0 +1,36 @@
+D:\C\Projects\TryItProj\TryIt\src\Posts\Posts.Infrastructure.Data\bin\Debug\net8.0\Posts.Infrastructure.Data.deps.json
+D:\C\Projects\TryItProj\TryIt\src\Posts\Posts.Infrastructure.Data\bin\Debug\net8.0\Posts.Infrastructure.Data.runtimeconfig.json
+D:\C\Projects\TryItProj\TryIt\src\Posts\Posts.Infrastructure.Data\bin\Debug\net8.0\Posts.Infrastructure.Data.dll
+D:\C\Projects\TryItProj\TryIt\src\Posts\Posts.Infrastructure.Data\bin\Debug\net8.0\Posts.Infrastructure.Data.pdb
+D:\C\Projects\TryItProj\TryIt\src\Posts\Posts.Infrastructure.Data\bin\Debug\net8.0\Posts.Domain.dll
+D:\C\Projects\TryItProj\TryIt\src\Posts\Posts.Infrastructure.Data\bin\Debug\net8.0\Posts.Domain.pdb
+D:\C\Projects\TryItProj\TryIt\src\Posts\Posts.Infrastructure.Data\obj\Debug\net8.0\Posts.Infrastructure.Data.csproj.AssemblyReference.cache
+D:\C\Projects\TryItProj\TryIt\src\Posts\Posts.Infrastructure.Data\obj\Debug\net8.0\Posts.Infrastructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\C\Projects\TryItProj\TryIt\src\Posts\Posts.Infrastructure.Data\obj\Debug\net8.0\Posts.Infrastructure.Data.AssemblyInfoInputs.cache
+D:\C\Projects\TryItProj\TryIt\src\Posts\Posts.Infrastructure.Data\obj\Debug\net8.0\Posts.Infrastructure.Data.AssemblyInfo.cs
+D:\C\Projects\TryItProj\TryIt\src\Posts\Posts.Infrastructure.Data\obj\Debug\net8.0\Posts.Infrastructure.Data.csproj.CoreCompileInputs.cache
+D:\C\Projects\TryItProj\TryIt\src\Posts\Posts.Infrastructure.Data\obj\Debug\net8.0\Posts.Infrastructure.Data.sourcelink.json
+D:\C\Projects\TryItProj\TryIt\src\Posts\Posts.Infrastructure.Data\obj\Debug\net8.0\Posts.In.0ABB952C.Up2Date
+D:\C\Projects\TryItProj\TryIt\src\Posts\Posts.Infrastructure.Data\obj\Debug\net8.0\Posts.Infrastructure.Data.dll
+D:\C\Projects\TryItProj\TryIt\src\Posts\Posts.Infrastructure.Data\obj\Debug\net8.0\refint\Posts.Infrastructure.Data.dll
+D:\C\Projects\TryItProj\TryIt\src\Posts\Posts.Infrastructure.Data\obj\Debug\net8.0\Posts.Infrastructure.Data.pdb
+D:\C\Projects\TryItProj\TryIt\src\Posts\Posts.Infrastructure.Data\obj\Debug\net8.0\Posts.Infrastructure.Data.genruntimeconfig.cache
+D:\C\Projects\TryItProj\TryIt\src\Posts\Posts.Infrastructure.Data\obj\Debug\net8.0\ref\Posts.Infrastructure.Data.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\Posts\Posts.Infrastructure.Data\bin\Debug\net8.0\Posts.Infrastructure.Data.deps.json
+D:\C\Projects\TryItProj – копія\TryIt\src\Posts\Posts.Infrastructure.Data\bin\Debug\net8.0\Posts.Infrastructure.Data.runtimeconfig.json
+D:\C\Projects\TryItProj – копія\TryIt\src\Posts\Posts.Infrastructure.Data\bin\Debug\net8.0\Posts.Infrastructure.Data.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\Posts\Posts.Infrastructure.Data\bin\Debug\net8.0\Posts.Infrastructure.Data.pdb
+D:\C\Projects\TryItProj – копія\TryIt\src\Posts\Posts.Infrastructure.Data\bin\Debug\net8.0\Posts.Domain.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\Posts\Posts.Infrastructure.Data\bin\Debug\net8.0\Posts.Domain.pdb
+D:\C\Projects\TryItProj – копія\TryIt\src\Posts\Posts.Infrastructure.Data\obj\Debug\net8.0\Posts.Infrastructure.Data.csproj.AssemblyReference.cache
+D:\C\Projects\TryItProj – копія\TryIt\src\Posts\Posts.Infrastructure.Data\obj\Debug\net8.0\Posts.Infrastructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\C\Projects\TryItProj – копія\TryIt\src\Posts\Posts.Infrastructure.Data\obj\Debug\net8.0\Posts.Infrastructure.Data.AssemblyInfoInputs.cache
+D:\C\Projects\TryItProj – копія\TryIt\src\Posts\Posts.Infrastructure.Data\obj\Debug\net8.0\Posts.Infrastructure.Data.AssemblyInfo.cs
+D:\C\Projects\TryItProj – копія\TryIt\src\Posts\Posts.Infrastructure.Data\obj\Debug\net8.0\Posts.Infrastructure.Data.csproj.CoreCompileInputs.cache
+D:\C\Projects\TryItProj – копія\TryIt\src\Posts\Posts.Infrastructure.Data\obj\Debug\net8.0\Posts.Infrastructure.Data.sourcelink.json
+D:\C\Projects\TryItProj – копія\TryIt\src\Posts\Posts.Infrastructure.Data\obj\Debug\net8.0\Posts.In.0ABB952C.Up2Date
+D:\C\Projects\TryItProj – копія\TryIt\src\Posts\Posts.Infrastructure.Data\obj\Debug\net8.0\Posts.Infrastructure.Data.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\Posts\Posts.Infrastructure.Data\obj\Debug\net8.0\refint\Posts.Infrastructure.Data.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\Posts\Posts.Infrastructure.Data\obj\Debug\net8.0\Posts.Infrastructure.Data.pdb
+D:\C\Projects\TryItProj – копія\TryIt\src\Posts\Posts.Infrastructure.Data\obj\Debug\net8.0\Posts.Infrastructure.Data.genruntimeconfig.cache
+D:\C\Projects\TryItProj – копія\TryIt\src\Posts\Posts.Infrastructure.Data\obj\Debug\net8.0\ref\Posts.Infrastructure.Data.dll

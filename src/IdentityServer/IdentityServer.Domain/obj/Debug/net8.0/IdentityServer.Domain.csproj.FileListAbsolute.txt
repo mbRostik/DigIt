@@ -1,0 +1,24 @@
+D:\C\Projects\TryItProj\TryIt\src\IdentityServer\IdentityServer.Domain\bin\Debug\net8.0\IdentityServer.Domain.deps.json
+D:\C\Projects\TryItProj\TryIt\src\IdentityServer\IdentityServer.Domain\bin\Debug\net8.0\IdentityServer.Domain.dll
+D:\C\Projects\TryItProj\TryIt\src\IdentityServer\IdentityServer.Domain\bin\Debug\net8.0\IdentityServer.Domain.pdb
+D:\C\Projects\TryItProj\TryIt\src\IdentityServer\IdentityServer.Domain\obj\Debug\net8.0\IdentityServer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\C\Projects\TryItProj\TryIt\src\IdentityServer\IdentityServer.Domain\obj\Debug\net8.0\IdentityServer.Domain.AssemblyInfoInputs.cache
+D:\C\Projects\TryItProj\TryIt\src\IdentityServer\IdentityServer.Domain\obj\Debug\net8.0\IdentityServer.Domain.AssemblyInfo.cs
+D:\C\Projects\TryItProj\TryIt\src\IdentityServer\IdentityServer.Domain\obj\Debug\net8.0\IdentityServer.Domain.csproj.CoreCompileInputs.cache
+D:\C\Projects\TryItProj\TryIt\src\IdentityServer\IdentityServer.Domain\obj\Debug\net8.0\IdentityServer.Domain.sourcelink.json
+D:\C\Projects\TryItProj\TryIt\src\IdentityServer\IdentityServer.Domain\obj\Debug\net8.0\IdentityServer.Domain.dll
+D:\C\Projects\TryItProj\TryIt\src\IdentityServer\IdentityServer.Domain\obj\Debug\net8.0\refint\IdentityServer.Domain.dll
+D:\C\Projects\TryItProj\TryIt\src\IdentityServer\IdentityServer.Domain\obj\Debug\net8.0\IdentityServer.Domain.pdb
+D:\C\Projects\TryItProj\TryIt\src\IdentityServer\IdentityServer.Domain\obj\Debug\net8.0\ref\IdentityServer.Domain.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\IdentityServer\IdentityServer.Domain\bin\Debug\net8.0\IdentityServer.Domain.deps.json
+D:\C\Projects\TryItProj – копія\TryIt\src\IdentityServer\IdentityServer.Domain\bin\Debug\net8.0\IdentityServer.Domain.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\IdentityServer\IdentityServer.Domain\bin\Debug\net8.0\IdentityServer.Domain.pdb
+D:\C\Projects\TryItProj – копія\TryIt\src\IdentityServer\IdentityServer.Domain\obj\Debug\net8.0\IdentityServer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\C\Projects\TryItProj – копія\TryIt\src\IdentityServer\IdentityServer.Domain\obj\Debug\net8.0\IdentityServer.Domain.AssemblyInfoInputs.cache
+D:\C\Projects\TryItProj – копія\TryIt\src\IdentityServer\IdentityServer.Domain\obj\Debug\net8.0\IdentityServer.Domain.AssemblyInfo.cs
+D:\C\Projects\TryItProj – копія\TryIt\src\IdentityServer\IdentityServer.Domain\obj\Debug\net8.0\IdentityServer.Domain.csproj.CoreCompileInputs.cache
+D:\C\Projects\TryItProj – копія\TryIt\src\IdentityServer\IdentityServer.Domain\obj\Debug\net8.0\IdentityServer.Domain.sourcelink.json
+D:\C\Projects\TryItProj – копія\TryIt\src\IdentityServer\IdentityServer.Domain\obj\Debug\net8.0\IdentityServer.Domain.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\IdentityServer\IdentityServer.Domain\obj\Debug\net8.0\refint\IdentityServer.Domain.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\IdentityServer\IdentityServer.Domain\obj\Debug\net8.0\IdentityServer.Domain.pdb
+D:\C\Projects\TryItProj – копія\TryIt\src\IdentityServer\IdentityServer.Domain\obj\Debug\net8.0\ref\IdentityServer.Domain.dll

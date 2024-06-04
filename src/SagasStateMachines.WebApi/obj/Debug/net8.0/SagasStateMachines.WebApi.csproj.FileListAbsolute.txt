@@ -1,0 +1,144 @@
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\appsettings.Development.json
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\appsettings.json
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\SagasStateMachines.WebApi.exe
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\SagasStateMachines.WebApi.deps.json
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\SagasStateMachines.WebApi.runtimeconfig.json
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\SagasStateMachines.WebApi.dll
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\SagasStateMachines.WebApi.pdb
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\Automatonymous.dll
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\AWSSDK.Core.dll
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\DnsClient.dll
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\Elasticsearch.Net.dll
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\GreenPipes.dll
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\MassTransit.dll
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\MassTransit.Abstractions.dll
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\MassTransit.MongoDbIntegration.dll
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\MassTransit.RabbitMqTransport.dll
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\MongoDB.Bson.dll
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\MongoDB.Driver.dll
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\MongoDB.Driver.GridFS.dll
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\Serilog.dll
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\Serilog.AspNetCore.dll
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\Serilog.Enrichers.Environment.dll
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\Serilog.Formatting.Elasticsearch.dll
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\Serilog.Sinks.Elasticsearch.dll
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\Serilog.Sinks.File.dll
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\Serilog.Sinks.PeriodicBatching.dll
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\SharpCompress.dll
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\Snappier.dll
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\ZstdSharp.dll
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\MessageBus.dll
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\MessageBus.pdb
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\obj\Debug\net8.0\SagasStateMachines.WebApi.csproj.AssemblyReference.cache
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\obj\Debug\net8.0\SagasStateMachines.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\obj\Debug\net8.0\SagasStateMachines.WebApi.AssemblyInfoInputs.cache
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\obj\Debug\net8.0\SagasStateMachines.WebApi.AssemblyInfo.cs
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\obj\Debug\net8.0\SagasStateMachines.WebApi.csproj.CoreCompileInputs.cache
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\obj\Debug\net8.0\SagasStateMachines.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\obj\Debug\net8.0\SagasStateMachines.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\obj\Debug\net8.0\SagasStateMachines.WebApi.sourcelink.json
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.SagasStateMachines.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.SagasStateMachines.WebApi.props
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SagasStateMachines.WebApi.props
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SagasStateMachines.WebApi.props
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\obj\Debug\net8.0\scopedcss\bundle\SagasStateMachines.WebApi.styles.css
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\obj\Debug\net8.0\SagasSta.165A04B9.Up2Date
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\obj\Debug\net8.0\SagasStateMachines.WebApi.dll
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\obj\Debug\net8.0\refint\SagasStateMachines.WebApi.dll
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\obj\Debug\net8.0\SagasStateMachines.WebApi.pdb
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\obj\Debug\net8.0\SagasStateMachines.WebApi.genruntimeconfig.cache
+D:\C\Projects\TryItProj\TryIt\src\SagasStateMachines.WebApi\obj\Debug\net8.0\ref\SagasStateMachines.WebApi.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\appsettings.Development.json
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\appsettings.json
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\SagasStateMachines.WebApi.exe
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\SagasStateMachines.WebApi.deps.json
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\SagasStateMachines.WebApi.runtimeconfig.json
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\SagasStateMachines.WebApi.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\SagasStateMachines.WebApi.pdb
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\Automatonymous.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\AWSSDK.Core.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\DnsClient.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\Elasticsearch.Net.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\GreenPipes.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\MassTransit.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\MassTransit.Abstractions.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\MassTransit.MongoDbIntegration.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\MassTransit.RabbitMqTransport.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\MongoDB.Bson.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\MongoDB.Driver.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\MongoDB.Driver.GridFS.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\Serilog.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\Serilog.AspNetCore.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\Serilog.Enrichers.Environment.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\Serilog.Formatting.Elasticsearch.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\Serilog.Sinks.Elasticsearch.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\Serilog.Sinks.File.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\Serilog.Sinks.PeriodicBatching.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\SharpCompress.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\Snappier.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\ZstdSharp.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\MessageBus.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\bin\Debug\net8.0\MessageBus.pdb
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\obj\Debug\net8.0\SagasStateMachines.WebApi.csproj.AssemblyReference.cache
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\obj\Debug\net8.0\SagasStateMachines.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\obj\Debug\net8.0\SagasStateMachines.WebApi.AssemblyInfoInputs.cache
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\obj\Debug\net8.0\SagasStateMachines.WebApi.AssemblyInfo.cs
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\obj\Debug\net8.0\SagasStateMachines.WebApi.csproj.CoreCompileInputs.cache
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\obj\Debug\net8.0\SagasStateMachines.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\obj\Debug\net8.0\SagasStateMachines.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\obj\Debug\net8.0\SagasStateMachines.WebApi.sourcelink.json
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.SagasStateMachines.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.SagasStateMachines.WebApi.props
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SagasStateMachines.WebApi.props
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SagasStateMachines.WebApi.props
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\obj\Debug\net8.0\scopedcss\bundle\SagasStateMachines.WebApi.styles.css
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\obj\Debug\net8.0\SagasSta.165A04B9.Up2Date
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\obj\Debug\net8.0\SagasStateMachines.WebApi.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\obj\Debug\net8.0\refint\SagasStateMachines.WebApi.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\obj\Debug\net8.0\SagasStateMachines.WebApi.pdb
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\obj\Debug\net8.0\SagasStateMachines.WebApi.genruntimeconfig.cache
+D:\C\Projects\TryItProj – копія\TryIt\src\SagasStateMachines.WebApi\obj\Debug\net8.0\ref\SagasStateMachines.WebApi.dll

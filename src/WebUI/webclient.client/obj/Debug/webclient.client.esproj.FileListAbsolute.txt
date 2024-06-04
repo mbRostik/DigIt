@@ -1,0 +1,2 @@
+D:\C\Projects\TryItProj\TryIt\src\WebUI\webclient.client\obj\Debug\webclient.client.esproj.CoreCompileInputs.cache
+D:\C\Projects\TryItProj – копія\TryIt\src\WebUI\webclient.client\obj\Debug\webclient.client.esproj.CoreCompileInputs.cache

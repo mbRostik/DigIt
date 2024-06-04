@@ -1,0 +1,44 @@
+D:\C\Projects\TryItProj\TryIt\src\Users\Users.Infrastructure\bin\Debug\net8.0\Users.Infrastructure.deps.json
+D:\C\Projects\TryItProj\TryIt\src\Users\Users.Infrastructure\bin\Debug\net8.0\Users.Infrastructure.dll
+D:\C\Projects\TryItProj\TryIt\src\Users\Users.Infrastructure\bin\Debug\net8.0\Users.Infrastructure.pdb
+D:\C\Projects\TryItProj\TryIt\src\Users\Users.Infrastructure\bin\Debug\net8.0\MessageBus.dll
+D:\C\Projects\TryItProj\TryIt\src\Users\Users.Infrastructure\bin\Debug\net8.0\Users.Application.dll
+D:\C\Projects\TryItProj\TryIt\src\Users\Users.Infrastructure\bin\Debug\net8.0\Users.Domain.dll
+D:\C\Projects\TryItProj\TryIt\src\Users\Users.Infrastructure\bin\Debug\net8.0\Users.Infrastructure.Data.dll
+D:\C\Projects\TryItProj\TryIt\src\Users\Users.Infrastructure\bin\Debug\net8.0\Users.Application.pdb
+D:\C\Projects\TryItProj\TryIt\src\Users\Users.Infrastructure\bin\Debug\net8.0\Users.Domain.pdb
+D:\C\Projects\TryItProj\TryIt\src\Users\Users.Infrastructure\bin\Debug\net8.0\MessageBus.pdb
+D:\C\Projects\TryItProj\TryIt\src\Users\Users.Infrastructure\bin\Debug\net8.0\Users.Infrastructure.Data.pdb
+D:\C\Projects\TryItProj\TryIt\src\Users\Users.Infrastructure\obj\Debug\net8.0\Users.Infrastructure.csproj.AssemblyReference.cache
+D:\C\Projects\TryItProj\TryIt\src\Users\Users.Infrastructure\obj\Debug\net8.0\Users.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\C\Projects\TryItProj\TryIt\src\Users\Users.Infrastructure\obj\Debug\net8.0\Users.Infrastructure.AssemblyInfoInputs.cache
+D:\C\Projects\TryItProj\TryIt\src\Users\Users.Infrastructure\obj\Debug\net8.0\Users.Infrastructure.AssemblyInfo.cs
+D:\C\Projects\TryItProj\TryIt\src\Users\Users.Infrastructure\obj\Debug\net8.0\Users.Infrastructure.csproj.CoreCompileInputs.cache
+D:\C\Projects\TryItProj\TryIt\src\Users\Users.Infrastructure\obj\Debug\net8.0\Users.Infrastructure.sourcelink.json
+D:\C\Projects\TryItProj\TryIt\src\Users\Users.Infrastructure\obj\Debug\net8.0\Users.In.B5616EE7.Up2Date
+D:\C\Projects\TryItProj\TryIt\src\Users\Users.Infrastructure\obj\Debug\net8.0\Users.Infrastructure.dll
+D:\C\Projects\TryItProj\TryIt\src\Users\Users.Infrastructure\obj\Debug\net8.0\refint\Users.Infrastructure.dll
+D:\C\Projects\TryItProj\TryIt\src\Users\Users.Infrastructure\obj\Debug\net8.0\Users.Infrastructure.pdb
+D:\C\Projects\TryItProj\TryIt\src\Users\Users.Infrastructure\obj\Debug\net8.0\ref\Users.Infrastructure.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\Users\Users.Infrastructure\bin\Debug\net8.0\Users.Infrastructure.deps.json
+D:\C\Projects\TryItProj – копія\TryIt\src\Users\Users.Infrastructure\bin\Debug\net8.0\Users.Infrastructure.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\Users\Users.Infrastructure\bin\Debug\net8.0\Users.Infrastructure.pdb
+D:\C\Projects\TryItProj – копія\TryIt\src\Users\Users.Infrastructure\bin\Debug\net8.0\MessageBus.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\Users\Users.Infrastructure\bin\Debug\net8.0\Users.Application.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\Users\Users.Infrastructure\bin\Debug\net8.0\Users.Domain.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\Users\Users.Infrastructure\bin\Debug\net8.0\Users.Infrastructure.Data.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\Users\Users.Infrastructure\bin\Debug\net8.0\Users.Application.pdb
+D:\C\Projects\TryItProj – копія\TryIt\src\Users\Users.Infrastructure\bin\Debug\net8.0\Users.Domain.pdb
+D:\C\Projects\TryItProj – копія\TryIt\src\Users\Users.Infrastructure\bin\Debug\net8.0\MessageBus.pdb
+D:\C\Projects\TryItProj – копія\TryIt\src\Users\Users.Infrastructure\bin\Debug\net8.0\Users.Infrastructure.Data.pdb
+D:\C\Projects\TryItProj – копія\TryIt\src\Users\Users.Infrastructure\obj\Debug\net8.0\Users.Infrastructure.csproj.AssemblyReference.cache
+D:\C\Projects\TryItProj – копія\TryIt\src\Users\Users.Infrastructure\obj\Debug\net8.0\Users.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\C\Projects\TryItProj – копія\TryIt\src\Users\Users.Infrastructure\obj\Debug\net8.0\Users.Infrastructure.AssemblyInfoInputs.cache
+D:\C\Projects\TryItProj – копія\TryIt\src\Users\Users.Infrastructure\obj\Debug\net8.0\Users.Infrastructure.AssemblyInfo.cs
+D:\C\Projects\TryItProj – копія\TryIt\src\Users\Users.Infrastructure\obj\Debug\net8.0\Users.Infrastructure.csproj.CoreCompileInputs.cache
+D:\C\Projects\TryItProj – копія\TryIt\src\Users\Users.Infrastructure\obj\Debug\net8.0\Users.Infrastructure.sourcelink.json
+D:\C\Projects\TryItProj – копія\TryIt\src\Users\Users.Infrastructure\obj\Debug\net8.0\Users.In.B5616EE7.Up2Date
+D:\C\Projects\TryItProj – копія\TryIt\src\Users\Users.Infrastructure\obj\Debug\net8.0\Users.Infrastructure.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\Users\Users.Infrastructure\obj\Debug\net8.0\refint\Users.Infrastructure.dll
+D:\C\Projects\TryItProj – копія\TryIt\src\Users\Users.Infrastructure\obj\Debug\net8.0\Users.Infrastructure.pdb
+D:\C\Projects\TryItProj – копія\TryIt\src\Users\Users.Infrastructure\obj\Debug\net8.0\ref\Users.Infrastructure.dll

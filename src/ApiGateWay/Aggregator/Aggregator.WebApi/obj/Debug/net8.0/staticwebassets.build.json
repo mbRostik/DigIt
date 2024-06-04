@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ROTGdC/FsTgF4zRJXtO6PLWQlXDX/2VwJgcsvnayGus=",
+  "Source": "Aggregator.WebApi",
+  "BasePath": "_content/Aggregator.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

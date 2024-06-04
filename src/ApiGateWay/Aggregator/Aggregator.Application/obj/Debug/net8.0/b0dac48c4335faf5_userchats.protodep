@@ -1,0 +1,3 @@
+obj\Debug\net8.0\Contracts\protos\ChatProtos/Userchats.cs \
+obj\Debug\net8.0\Contracts\protos\ChatProtos/UserchatsGrpc.cs: C:/Users/rostd/.nuget/packages/grpc.tools/2.62.0/build/native/include/google/protobuf/timestamp.proto\
+ Contracts/protos/ChatProtos/userchats.proto

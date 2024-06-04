@@ -1,0 +1,32 @@
+.MainPage_Market_Item
+{
+    max-width: 340px;
+    display: flex;
+    flex-direction: column;
+}
+
+.MainPage_Market_Item_Photo {
+    max-width: 340px;
+    max-height: 210px;
+    height: 210px;
+    width: 340px;
+    background-color: #838383;
+    border-radius:20px;
+}
+
+.MainPage_Market_Item_Title{
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+.MainPage_Market_Item_Description{
+    margin-top: 25px;
+    margin-bottom: 30px;
+    font-size: 16px;
+}
+
+.MainPage_Market_Item_Price {
+    color: #F29727;
+    font-size: 16px;
+    font-weight: 600;
+}

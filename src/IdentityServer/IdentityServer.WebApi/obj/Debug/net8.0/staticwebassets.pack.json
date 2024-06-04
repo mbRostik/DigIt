@@ -1,0 +1,233 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\C\\Projects\\TryItProj – копія\\TryIt\\src\\IdentityServer\\IdentityServer.WebApi\\wwwroot\\css\\Index.css",
+      "PackagePath": "staticwebassets\\css\\Index.css"
+    },
+    {
+      "Id": "D:\\C\\Projects\\TryItProj – копія\\TryIt\\src\\IdentityServer\\IdentityServer.WebApi\\wwwroot\\css\\LogOut.css",
+      "PackagePath": "staticwebassets\\css\\LogOut.css"
+    },
+    {
+      "Id": "D:\\C\\Projects\\TryItProj – копія\\TryIt\\src\\IdentityServer\\IdentityServer.WebApi\\wwwroot\\css\\LoginPage.css",
+      "PackagePath": "staticwebassets\\css\\LoginPage.css"
+    },
+    {
+      "Id": "D:\\C\\Projects\\TryItProj – копія\\TryIt\\src\\IdentityServer\\IdentityServer.WebApi\\wwwroot\\css\\NavBar.css",
+      "PackagePath": "staticwebassets\\css\\NavBar.css"
+    },
+    {
+      "Id": "D:\\C\\Projects\\TryItProj – копія\\TryIt\\src\\IdentityServer\\IdentityServer.WebApi\\wwwroot\\css\\RegistrationPage.css",
+      "PackagePath": "staticwebassets\\css\\RegistrationPage.css"
+    },
+    {
+      "Id": "D:\\C\\Projects\\TryItProj – копія\\TryIt\\src\\IdentityServer\\IdentityServer.WebApi\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\C\\Projects\\TryItProj – копія\\TryIt\\src\\IdentityServer\\IdentityServer.WebApi\\wwwroot\\css\\site.min.css",
+      "PackagePath": "staticwebassets\\css\\site.min.css"
+    },
+    {
+      "Id": "D:\\C\\Projects\\TryItProj – копія\\TryIt\\src\\IdentityServer\\IdentityServer.WebApi\\wwwroot\\css\\site.scss",
+      "PackagePath": "staticwebassets\\css\\site.scss"
+    },
+    {
+      "Id": "D:\\C\\Projects\\TryItProj – копія\\TryIt\\src\\IdentityServer\\IdentityServer.WebApi\\wwwroot\\duende-logo.svg",
+      "PackagePath": "staticwebassets\\duende-logo.svg"
+    },
+    {
+      "Id": "D:\\C\\Projects\\TryItProj – копія\\TryIt\\src\\IdentityServer\\IdentityServer.WebApi\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\C\\Projects\\TryItProj – копія\\TryIt\\src\\IdentityServer\\IdentityServer.WebApi\\wwwroot\\js\\signin-redirect.js",
+      "PackagePath": "staticwebassets\\js\\signin-redirect.js"
+    },
+    {
+      "Id": "D:\\C\\Projects\\TryItProj – копія\\TryIt\\src\\IdentityServer\\IdentityServer.WebApi\\wwwroot\\js\\signout-redirect.js",
+      "PackagePath": "staticwebassets\\js\\signout-redirect.js"
+    },
+    {
+      "Id": "D:\\C\\Projects\\TryItProj – копія\\TryIt\\src\\IdentityServer\\IdentityServer.WebApi\\wwwroot\\lib\\bootstrap4-glyphicons\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4-glyphicons"
+    },
+    {
+      "Id": "D:\\C\\Projects\\TryItProj – копія\\TryIt\\src\\IdentityServer\\IdentityServer.WebApi\\wwwroot\\lib\\bootstrap4-glyphicons\\css\\bootstrap-glyphicons.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4-glyphicons\\css\\bootstrap-glyphicons.css"
+    },
+    {
+      "Id": "D:\\C\\Projects\\TryItProj – копія\\TryIt\\src\\IdentityServer\\IdentityServer.WebApi\\wwwroot\\lib\\bootstrap4-glyphicons\\css\\bootstrap-glyphicons.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4-glyphicons\\css\\bootstrap-glyphicons.min.css"
+    },
+    {
+      "Id": "D:\\C\\Projects\\TryItProj – копія\\TryIt\\src\\IdentityServer\\IdentityServer.WebApi\\wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "D:\\C\\Projects\\TryItProj – копія\\TryIt\\src\\IdentityServer\\IdentityServer.WebApi\\wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "D:\\C\\Projects\\TryItProj – копія\\TryIt\\src\\IdentityServer\\IdentityServer.WebApi\\wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "D:\\C\\Projects\\TryItProj – копія\\TryIt\\src\\IdentityServer\\IdentityServer.WebApi\\wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "D:\\C\\Projects\\TryItProj – копія\\TryIt\\src\\IdentityServer\\IdentityServer.WebApi\\wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "D:\\C\\Projects\\TryItProj – копія\\TryIt\\src\\IdentityServer\\IdentityServer.WebApi\\wwwroot\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.css"
+    },
+    {
+      "Id": "D:\\C\\Projects\\TryItProj – копія\\TryIt\\src\\IdentityServer\\IdentityServer.WebApi\\wwwroot\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.less",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.less"
+    },
+    {
+      "Id": "D:\\C\\Projects\\TryItProj – копія\\TryIt\\src\\IdentityServer\\IdentityServer.WebApi\\wwwroot\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.min.css"
+    },
+    {
+      "Id": "D:\\C\\Projects\\TryItProj – копія\\TryIt\\src\\IdentityServer\\IdentityServer.WebApi\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\C\\Projects\\TryItProj – копія\\TryIt\\src\\IdentityServer\\IdentityServer.WebApi\\wwwroot\\lib\\bootstrap\\README.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\README.md"
+    },
+    {
+      "Id": "D:\\C\\Projects\\TryItProj – копія\\TryIt\\src\\IdentityServer\\IdentityServer.WebApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\C\\Projects\\TryItProj – копія\\TryIt\\src\\IdentityServer\\IdentityServer.WebApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\C\\Projects\\TryItProj – копія\\TryIt\\src\\IdentityServer\\IdentityServer.WebApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\C\\Projects\\TryItProj – копія\\TryIt\\src\\IdentityServer\\IdentityServer.WebApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\C\\Projects\\TryItProj – копія\\TryIt\\src\\IdentityServer\\IdentityServer.WebApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\C\\Projects\\TryItProj – копія\\TryIt\\src\\IdentityServer\\IdentityServer.WebApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\C\\Projects\\TryItProj – копія\\TryIt\\src\\IdentityServer\\IdentityServer.WebApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\C\\Projects\\TryItProj – копія\\TryIt\\src\\IdentityServer\\IdentityServer.WebApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\C\\Projects\\TryItProj – копія\\TryIt\\src\\IdentityServer\\IdentityServer.WebApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\C\\Projects\\TryItProj – копія\\TryIt\\src\\IdentityServer\\IdentityServer.WebApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\C\\Projects\\TryItProj – копія\\TryIt\\src\\IdentityServer\\IdentityServer.WebApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\C\\Projects\\TryItProj – копія\\TryIt\\src\\IdentityServer\\IdentityServer.WebApi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\C\\Projects\\TryItProj – копія\\TryIt\\src\\IdentityServer\\IdentityServer.WebApi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\C\\Projects\\TryItProj – копія\\TryIt\\src\\IdentityServer\\IdentityServer.WebApi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\C\\Projects\\TryItProj – копія\\TryIt\\src\\IdentityServer\\IdentityServer.WebApi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\C\\Projects\\TryItProj – копія\\TryIt\\src\\IdentityServer\\IdentityServer.WebApi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\C\\Projects\\TryItProj – копія\\TryIt\\src\\IdentityServer\\IdentityServer.WebApi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\C\\Projects\\TryItProj – копія\\TryIt\\src\\IdentityServer\\IdentityServer.WebApi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\C\\Projects\\TryItProj – копія\\TryIt\\src\\IdentityServer\\IdentityServer.WebApi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\C\\Projects\\TryItProj – копія\\TryIt\\src\\IdentityServer\\IdentityServer.WebApi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\C\\Projects\\TryItProj – копія\\TryIt\\src\\IdentityServer\\IdentityServer.WebApi\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\C\\Projects\\TryItProj – копія\\TryIt\\src\\IdentityServer\\IdentityServer.WebApi\\wwwroot\\lib\\jquery\\README.md",
+      "PackagePath": "staticwebassets\\lib\\jquery\\README.md"
+    },
+    {
+      "Id": "D:\\C\\Projects\\TryItProj – копія\\TryIt\\src\\IdentityServer\\IdentityServer.WebApi\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\C\\Projects\\TryItProj – копія\\TryIt\\src\\IdentityServer\\IdentityServer.WebApi\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\C\\Projects\\TryItProj – копія\\TryIt\\src\\IdentityServer\\IdentityServer.WebApi\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\C\\Projects\\TryItProj – копія\\TryIt\\src\\IdentityServer\\IdentityServer.WebApi\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "D:\\C\\Projects\\TryItProj – копія\\TryIt\\src\\IdentityServer\\IdentityServer.WebApi\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "D:\\C\\Projects\\TryItProj – копія\\TryIt\\src\\IdentityServer\\IdentityServer.WebApi\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.IdentityServer.WebApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.IdentityServer.WebApi.props",
+      "PackagePath": "build\\IdentityServer.WebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.IdentityServer.WebApi.props",
+      "PackagePath": "buildMultiTargeting\\IdentityServer.WebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.IdentityServer.WebApi.props",
+      "PackagePath": "buildTransitive\\IdentityServer.WebApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

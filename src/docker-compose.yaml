@@ -1,0 +1,180 @@
+version: '3.6'
+
+services:
+  mongo:
+    image: mongo
+    restart: always
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: example
+
+  elasticsearch:
+    container_name: els
+    image: docker.elastic.co/elasticsearch/elasticsearch:8.7.1
+    ports:
+      - 9200:9200
+    volumes:
+      - elasticsearch-data:/usr/share/elasticsearch/data
+    environment:
+      - xpack.security.enabled=false
+      - discovery.type=single-node
+    networks:
+      - elastic
+
+  kibana:
+    container_name: kibana
+    image: docker.elastic.co/kibana/kibana:8.7.1
+    ports: 
+      - 5601:5601
+    depends_on:
+      - elasticsearch
+    environment:
+      - ELASTICSEARCH_URL=http://elasticsearch:9200
+    networks:
+      - elastic
+
+  mongo-express:
+    image: mongo-express
+    restart: always
+    ports:
+      - 8081:8081
+    environment:
+      ME_CONFIG_MONGODB_ADMINUSERNAME: root
+      ME_CONFIG_MONGODB_ADMINPASSWORD: example
+      ME_CONFIG_MONGODB_URL: mongodb://root:example@mongo:27017/
+      ME_CONFIG_BASICAUTH: false
+
+  rabbitmq:
+    container_name: rabbitmq
+    image: rabbitmq:3.13-management
+    ports:
+      - "5672:5672"
+      - "15672:15672"
+
+  mssql:
+    container_name: mssql
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    environment:
+      SA_PASSWORD: "PrudymaiyPotimVidRostik123456!@"
+      ACCEPT_EULA: "Y"
+    ports:
+      - "1433:1433"
+
+  chatwebapi-api:
+    container_name: chatwebapi-api
+    image: chatwebapi-api
+    build:
+      context: .
+      dockerfile: Chat.Dockerfile
+    ports:
+      - "7134:8080"
+      - "7234:8082"
+      - "7334:8081"
+    environment:
+      - "ConnectionStrings__MSSQLConnection=Server=mssql;Database=ChatDB;User Id=sa;Password=PrudymaiyPotimVidRostik123456!@;Encrypt=False;"
+      
+  postwebapi-api:
+    container_name: postwebapi-api
+    image: postwebapi-api
+    build:
+      context: .
+      dockerfile: Post.Dockerfile
+    ports:
+      - "7128:8080"
+      - "7028:8081"
+    environment:
+      - "ConnectionStrings__MSSQLConnection=Server=mssql;Database=PostDB;User Id=sa;Password=PrudymaiyPotimVidRostik123456!@;Encrypt=False;"
+
+  aggregatorwebapi-api:
+    container_name: aggregatorwebapi-api
+    image: aggregatorwebapi-api
+    build:
+      context: .
+      dockerfile: Aggregator.Dockerfile
+    ports:
+      - "7092:8080"
+      - "7192:8081"
+
+  ocelotgateway-api:
+    container_name: ocelotgateway-api
+    image: ocelotgateway-api
+    build:
+      context: .
+      dockerfile: Ocelot.Dockerfile
+    ports:
+      - "7662:8080"
+      - "7062:8081"
+
+  userwebapi-api:
+    container_name: userwebapi-api
+    image: userwebapi-api
+    build:
+      context: .
+      dockerfile: User.Dockerfile
+    ports:
+      - "7787:8080"
+      - "7075:8081"
+    environment:
+      - "ConnectionStrings__MSSQLConnection=Server=mssql;Database=UserDB;User Id=sa;Password=PrudymaiyPotimVidRostik123456!@;Encrypt=False;"
+
+  sagawebapi-api:
+    container_name: sagawebapi-api
+    image: sagawebapi-api
+    build:
+      context: .
+      dockerfile: SagaStateMachines.Dockerfile
+    ports:
+      - "7727:8080"
+      - "7219:8081"
+
+  identityserverapi-api:
+    container_name: identityserverapi-api
+    image: identityserverapi-api
+    build:
+      context: .
+      dockerfile: IdentityServer.Dockerfile
+    ports:
+      - "7199:8080"
+      - "7174:8081"
+    environment:
+      - "ConnectionStrings__MSSQLConnection=Server=mssql;Database=IdentityServer;User Id=sa;Password=PrudymaiyPotimVidRostik123456!@;Encrypt=False;"
+      - "EmailSettings__Email=rost.daskalyuk@gmail.com"
+      - "EmailSettings__Host=smtp.gmail.com"
+      - "EmailSettings__Password=ueexgknctftcjnpo"
+      - "Links__ReactLink=https://localhost:5173/"
+      - "Links__BaseUrl=https://localhost:7174/"
+      - "Authentication__Google__ClientId=1064660972104-obge6n4doce8e37e9edrcu7tk4dvktb5.apps.googleusercontent.com"
+      - "Authentication__Google__ClientSecret=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"
+
+  notificationwebapi-api:
+    container_name: notificationwebapi-api
+    image: notificationwebapi-api
+    build:
+      context: .
+      dockerfile: Notification.Dockerfile
+    ports:
+      - "7917:8080"
+      - "7217:8081"
+    environment:
+      - "ConnectionStrings__MSSQLConnection=Server=mssql;Database=NotificationDB;User Id=sa;Password=PrudymaiyPotimVidRostik123456!@;Encrypt=False;"
+
+  subscriptionwebapi-api:
+    container_name: subscriptionwebapi-api
+    image: subscriptionwebapi-api
+    build:
+      context: .
+      dockerfile: Subscription.Dockerfile
+    ports:
+      - "7372:8080"
+      - "7172:8081"
+    environment:
+      - "ConnectionStrings__MSSQLConnection=Server=mssql;Database=SubscriptionDB;User Id=sa;Password=PrudymaiyPotimVidRostik123456!@;Encrypt=False;"
+
+
+
+networks:
+  elastic:
+    driver: bridge
+
+volumes:
+  elasticsearch-data:
